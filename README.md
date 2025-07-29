@@ -3,10 +3,15 @@
 
 2.Features
 ✔ Sales breakdown by region (East, North, South, West).
+
 ✔ Interactive Visualizations:
+
 Donut Chart: Sales flow by region.
+
 Pie Chart: Percentage contribution of each region.
+
 Stacked Column Chart: Sales performance across regions and categories.
+
 Waterfall Chart: Incremental sales changes over a period.
 
 3.Data Sources
@@ -54,3 +59,13 @@ Category of Product (Optional, if data is available)
 Power BI Desktop (preferably latest version).
 
 Dataset access (included in the repository).
+8.🔹 How to Contribute
+
+Fork the repository.
+
+Suggest improvements via Pull Requests.
+
+Report issues in the Issues section.
+9.Screenshots /Demos
+- Example : https://github.com/raghu719/Sales-Report/blob/main/Snapshot%20Of%20Sales%20Report%20.png
+  
