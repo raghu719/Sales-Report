@@ -1,7 +1,9 @@
 # Sales-Report
+
 1. Title = Country Sales Report -This Power BI dashboard offers an interactive analysis of sales data across the four regions: East, North, South, and West. It offers a plethora of visualizations so sales can be tracked in terms of performance, trend, and comparison.
 
 2.Features
+
 ✔ Sales breakdown by region (East, North, South, West).
 
 ✔ Interactive Visualizations:
@@ -20,6 +22,7 @@ Waterfall Chart: Incremental sales changes over a period.
 -Cleaned and transformed in Power Query.
 
 4.How to Use
+
 -Download the .pbix file and open it in Power BI Desktop.
 
 -Make sure to refresh the data if data changes have been made (Data → Refresh).
@@ -29,6 +32,7 @@ Waterfall Chart: Incremental sales changes over a period.
 -Hover over visualization charts for tooltips.
 
 5.Visualizations
+
 - Donut Chart
 This visual depicts sales distribution across regions.
 
@@ -49,6 +53,7 @@ Visualizes cumulative growth/decline in sales.
 Identifies main drivers behind sales changes.
 
 6.Filters Applied
+
 Region Filter (East, North, South, West)
 
 Time Period (Monthly, Quarterly, Yearly)
@@ -56,9 +61,11 @@ Time Period (Monthly, Quarterly, Yearly)
 Category of Product (Optional, if data is available)
 
 7.Requirements
+
 Power BI Desktop (preferably latest version).
 
 Dataset access (included in the repository).
+
 8.🔹 How to Contribute
 
 Fork the repository.
@@ -66,6 +73,8 @@ Fork the repository.
 Suggest improvements via Pull Requests.
 
 Report issues in the Issues section.
+
 9.Screenshots /Demos
+
 - Example : https://github.com/raghu719/Sales-Report/blob/main/Snapshot%20Of%20Sales%20Report%20.png
   
